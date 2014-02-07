@@ -1,4 +1,4 @@
-glu.defView 'moo.testing_overview',
+glu.defView 'moo.testing.overview',
   layout: 'border'
   border: false
 

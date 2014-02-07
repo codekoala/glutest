@@ -7,7 +7,7 @@ glu.defView 'moo.main',
     region: 'center'
     xtype: 'tabpanel'
     items: [{
-      xtype: 'testing_overview'
+      xtype: 'testing.overview'
       mtype: 'list'
     }]
   }]

@@ -3,6 +3,7 @@ glu.defView 'moo.testing.overview',
   border: false
 
   title: '~~title~~'
+  html: 'Foo bar'
 
   tbar: [{
     'foo'

@@ -1,3 +1,1 @@
-glu.defModel 'moo.testing.overview',
-  detail:
-    mtype: 'test'
+glu.defModel 'moo.testing.overview', {}

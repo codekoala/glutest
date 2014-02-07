@@ -6,8 +6,5 @@ glu.defView 'moo.main',
   items: [{
     region: 'center'
     xtype: 'tabpanel'
-    items: [{
-      xtype: 'testing.overview'
-      mtype: 'list'
-    }]
+    items: '@{tabs}'
   }]
